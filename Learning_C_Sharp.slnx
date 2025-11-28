@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/NewFolder1/" />
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="TextHello/TextHello.csproj" />
 </Solution>
