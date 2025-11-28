@@ -5,8 +5,13 @@ This repository contains my **learning exercises and practice projects** based o
 
 Although the book targets Visual Studio 2010 and .NET Framework 4, the core principles remain highly relevant for learning **modern C#** and **object-oriented programming**.
 
-I couldn’t resist picking up a mint-condition copy — still sealed with its original CD — from such a well-respected author whose work remains highly applicable today. 
-Completing these exercises first will provide a solid foundation before moving on to the 2022 edition of the book, allowing me to explore how the language and tooling have evolved and to better understand legacy code in context.
+I couldn’t resist picking up a mint-condition copy — still sealed with its original CD — from a well-respected author. 
+Completing these exercises will provide a solid foundation and will allow me to explore how the language and tooling have evolved and to better understand legacy code in context.
+
+There is a newer version available: 
+
+*Microsoft Visual C# Step by Step (Developer Reference)*
+ISBN: 978-0137619832, 10th edition, May 2022
 
 ---
 
@@ -14,7 +19,7 @@ Completing these exercises first will provide a solid foundation before moving o
 
 The goal of this repo is to:
 - Reinforce **C# language fundamentals** through guided exercises  
-- Explore **Visual Studio IDE features** and project structure  
+- Explore **Visual Studio / Visual Studio Community IDE features** and project structure  
 - Build practical experience with **Windows desktop apps**, **data access**, and **object-oriented design**  
 - Provide a version-controlled archive of my progress through each chapter  
 
@@ -99,7 +104,7 @@ ISBN: 978-0735626706, Sixth Printing 2014
 
 .
 
-There is a newer version available: 
+There is a newer edition available: 
 
 *Microsoft Visual C# Step by Step (Developer Reference)*
 
@@ -107,7 +112,7 @@ ISBN: 978-0137619832, 10th edition, May 2022
 
 ---
 
-## Author
+## Repo Author \ Student
 
 **Michael McKibbin**  
 Learning C# and .NET Fundamentals  

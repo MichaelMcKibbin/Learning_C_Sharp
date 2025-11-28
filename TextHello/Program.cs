@@ -1,2 +1,2 @@
-﻿Console.WriteLine("helloooooooooooooooooooooooooooooooooooooooooo");
+﻿Console.WriteLine("hellooooooooooooo");
 // Console.ReadLine();
