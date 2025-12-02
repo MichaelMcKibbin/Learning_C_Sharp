@@ -13,6 +13,11 @@ There is a newer version available:
 *Microsoft Visual C# Step by Step (Developer Reference)*
 ISBN: 978-0137619832, 10th edition, May 2022
 
+There is a newer version available: 
+
+*Microsoft Visual C# Step by Step (Developer Reference)*
+ISBN: 978-0137619832, 10th edition, May 2022
+
 ---
 
 ## Purpose
